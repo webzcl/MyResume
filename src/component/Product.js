@@ -11,7 +11,7 @@ class Product extends React.Component {
         }
     }
     componentDidMount() {
-        axios.get("https://raw.githubusercontent.com/yewenxiang23/my-resume/master/src/blogData/product.json").then(res => {
+        axios.get("https://raw.githubusercontent.com/webzcl/MyResume/master/src/blogData/product.json").then(res => {
 
           console.log(res),
           this.setState({productDate: res.data})});
@@ -27,7 +27,7 @@ class Product extends React.Component {
                         : this.state.productDate.map((item) => (
                             <figure className="product" key={Math.random()}>
                                 <h4>{item.title}</h4>
-                                <img src={`http://omfmbv825.bkt.clouddn.com/${item.imgName}.png`} alt={item.imgName}/>
+                                {/* <img src={`http://omfmbv825.bkt.clouddn.com/${item.imgName}.png`} alt={item.imgName}/> */}
                                 <img src={`https://raw.githubusercontent.com/webzcl/MyResource/master/images/yunmeili/${item.imgName}.png`} alt={item.imgName}/>
                                 <div className="product-title">
                                     <a href={`https://yewenxiang23.github.io/${item.demoAddress}`}>演示demo</a>
