@@ -8,8 +8,7 @@
   {"title":"Codester","desc":"使用div+css布局快速搭建的一个页面。","imgName":"Codester/Codester","demoAddress":"products/Codester","codeAddress":"products"},
   {"title":"London","desc":"使用div+css布局快速搭建的一个页面。","imgName":"London/London","demoAddress":"products/London","codeAddress":"products"},
   {"title":"EaglesTroop","desc":"使用div+css布局,总共包含六个子页面，CSS公共部分的样式全部提取了出来，可以通过导航条点击来切换六个不同的页面。","imgName":"EaglesTroop/EaglesTroop","demoAddress":"products/EaglesTroop/","codeAddress":"products"},
-  {"title":"Bootstrap搭建的一个网站","desc":"使用Bootstrap快速搭建的一个响应式的站点，包括响应式的导航条，下拉菜单，轮播图，标签页切换，点击关于弹出窗口等功能。","imgName":"demo7","demoAddress":"demo/demo1/demo.html","codeAddress":"products"},
   {"title":"某灯具企业首页","desc":"使用DIV+CSS布局，常见的标签切换和自动轮播功能。","imgName":"Lamp/Lamp","demoAddress":"products/Lamp/","codeAddress":"products"},
   {"title":"奥斯卡首页","desc":"使用div+css布局快速搭建的一个页面。","imgName":"Oscar/Oscar","demoAddress":"products/Oscar/","codeAddress":"products"},
-  {"title":"手机端页面","desc":"使用rem来设置页面中所有的宽度，并用JS来计算出相应的像素，一个手机端的页面。","imgName":"Mdatesite/Mdatesite","demoAddress":"products/Mdatesite/expertAppointment","codeAddress":"products"}
+  {"title":"手机端页面","desc":"使用rem来设置页面中所有的宽度，并用JS来计算出相应的像素，一个手机端的页面。","imgName":"Mdatesite/expertAppointment","demoAddress":"products/Mdatesite/expertAppointment","codeAddress":"products"}
 ]
