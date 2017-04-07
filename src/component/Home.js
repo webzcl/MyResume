@@ -92,7 +92,7 @@ class Home extends React.Component {
                                         <i className="iconfont icon-icon"></i>
                                         简历源码:
                                     </span>
-                                    <a href="https://github.com/webzcl/my-resume-zcl">https://github.com/webzcl/my-resume-zcl</a>
+                                    <a href="https://github.com/webzcl/MyResume">https://github.com/webzcl/MyResume</a>
                                 </dd>
                             </dl>
                         </li>
