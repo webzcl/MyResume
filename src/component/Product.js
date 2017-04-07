@@ -13,7 +13,7 @@ class Product extends React.Component {
     componentDidMount() {
         axios.get("https://raw.githubusercontent.com/webzcl/MyResume/master/src/blogData/product.json").then(res => {
 
-          console.log(res),
+          console.log('-------------',res.data),
           this.setState({productDate: res.data})});
     }
     render() {

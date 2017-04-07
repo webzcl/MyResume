@@ -7,9 +7,9 @@
   {"title":"云美丽注册页","desc":"注册页使用了JQ来完成包含邮箱的正则验证、昵称正则验证、密码的正则验证、二次密码确认、只有全部正确，并且点击了复选框才能提交成功。","imgName":"zhuce","demoAddress":"yunmeili/pages/zhuce.html","codeAddress":"yunmeili"},
   {"title":"demo","desc":"使用div+css布局快速搭建的一个页面。","imgName":"demo2","demoAddress":"demo2","codeAddress":"demo2"},
   {"title":"demo","desc":"使用div+css布局快速搭建的一个页面。","imgName":"demo3","demoAddress":"demo3","codeAddress":"demo3"},
-  {"title":"一个英文站点demo","desc":"使用div+css布局,总共包含六个子页面，CSS公共部分的样式全部提取了出来，可以通过导航条点击来切换六个不同的页面。","imgName":"demo6","demoAddress":"demo/demo4/","codeAddress":"demo/tree/master/demo4"},
+  {"title":"一个英文站点demo","desc":"使用div+css布局,总共包含六个子页面，CSS公共部分的样式全部提取了出来，可以通过导航条点击来切换六个不同的页面。","imgName":"demo6","demoAddress":"products/London/","codeAddress":"demo/tree/master/demo4"},
   {"title":"Bootstrap搭建的一个网站","desc":"使用Bootstrap快速搭建的一个响应式的站点，包括响应式的导航条，下拉菜单，轮播图，标签页切换，点击关于弹出窗口等功能。","imgName":"demo7","demoAddress":"demo/demo1/demo.html","codeAddress":"demo/tree/master/demo1"},
-  {"title":"某灯具企业首页","desc":"使用DIV+CSS布局，常见的标签切换和自动轮播功能。","imgName":"demo5","demoAddress":"demo/demo3/","codeAddress":"demo/tree/master/demo3"},
-  {"title":"小金人首页","desc":"使用div+css布局快速搭建的一个页面。","imgName":"demo8","demoAddress":"demo/demo2/","codeAddress":"demo/tree/master/demo2"},
-  {"title":"手机端页面","desc":"使用rem来设置页面中所有的宽度，并用JS来计算出相应的像素，一个手机端的页面。","imgName":"demo4","demoAddress":"demo/demo5/ggcy.html","codeAddress":"demo/tree/master/demo5"}
+  {"title":"某灯具企业首页","desc":"使用DIV+CSS布局，常见的标签切换和自动轮播功能。","imgName":"demo5","demoAddress":"products/Lamp/","codeAddress":"demo/tree/master/demo3"},
+  {"title":"奥斯卡首页","desc":"使用div+css布局快速搭建的一个页面。","imgName":"demo8","demoAddress":"products/Oscar/","codeAddress":"demo/tree/master/demo2"},
+  {"title":"手机端页面","desc":"使用rem来设置页面中所有的宽度，并用JS来计算出相应的像素，一个手机端的页面。","imgName":"demo4","demoAddress":"products/Mdatesite/expertAppointment.html","codeAddress":"demo/tree/master/demo5"}
 ]
