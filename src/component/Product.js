@@ -27,7 +27,7 @@ class Product extends React.Component {
                         : this.state.productDate.map((item) => (
                             <figure className="product" key={Math.random()}>
                                 <h4>{item.title}</h4>
-                                <img src={`https://raw.githubusercontent.com/webzcl/MyResource/master/images/yunmeili/${item.imgName}.png`} alt={item.imgName}/>
+                                <img src={`https://raw.githubusercontent.com/webzcl/MyResource/master/images/${item.imgName}.png`} alt={item.imgName}/>
                                 <div className="product-title">
                                     <a href={`https://webzcl.github.io/${item.demoAddress}`}>演示demo</a>
                                     <a href={`https://github.com/webzcl/${item.codeAddress}`}>源码地址</a>
